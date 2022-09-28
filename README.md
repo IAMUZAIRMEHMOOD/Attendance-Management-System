@@ -1,2 +1,2 @@
-# Software-Application-For-Mobile-Devices-20
+Attendance Management System
 Mobile App Project Attendance Management System
